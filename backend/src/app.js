@@ -1,12 +1,3 @@
-// Mongo DB
-// User Name: rajkumarmah55_db_user
-//Paddword: SbRo7qxG7bpojIXm
-// mongodb+srv://test_todoapp:India_Mongo123456@cluster-todoapp.qifionk.mongodb.net/
-
-// User: test_todoapp
-// database password: India_Mongo123456
-
-
 const express = require("express");
 const cors = require("cors");
 const User = require("./models/User");
